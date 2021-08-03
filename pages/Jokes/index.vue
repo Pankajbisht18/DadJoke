@@ -13,6 +13,7 @@ export default {
             jokes:[]
         }
     },
+    layout: 'jokes',
     components: { Joke },
     async created(){
         const config = {
