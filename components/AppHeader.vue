@@ -11,7 +11,7 @@
             <li>
                 <nuxt-link to='/about'>About</nuxt-link>
             </li>
-        </ul>
+        </ul>        
     </header>
 </template>
 

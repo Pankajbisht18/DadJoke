@@ -18,6 +18,7 @@ export default {
                 }
             ]
         }
-    }
+    },
+    layout: 'jokes'
 }
 </script>

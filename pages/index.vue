@@ -7,6 +7,7 @@
 <script>
 
 export default {
+  layout: 'jokes',
   head(){
     return{
       title: 'Welcome To The Dad Jokes',
